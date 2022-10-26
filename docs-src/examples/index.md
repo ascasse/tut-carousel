@@ -1,20 +1,20 @@
 ---
 layout: example.11ty.cjs
-title: <my-element> ⌲ Examples ⌲ Basic
+title: <motion-carousel> ⌲ Examples ⌲ Basic
 tags: example
 name: Basic
 description: A basic example
 ---
 
 <style>
-  my-element p {
+  motion-carousel p {
     border: solid 1px blue;
     padding: 8px;
   }
 </style>
-<my-element>
+<motion-carousel>
   <p>This is child content</p>
-</my-element>
+</motion-carousel>
 
 <h3>CSS</h3>
 
@@ -28,7 +28,7 @@ p {
 <h3>HTML</h3>
 
 ```html
-<my-element>
+<motion-carousel>
   <p>This is child content</p>
-</my-element>
+</motion-carousel>
 ```

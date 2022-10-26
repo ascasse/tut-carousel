@@ -13,3 +13,5 @@ export class MotionCarousel extends LitElement {
     `;
   }
 }
+
+customElements.define('motion-carousel', MotionCarousel);

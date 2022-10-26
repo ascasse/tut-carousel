@@ -1,4 +1,4 @@
-/node_modules/
+/**/node_modules/
 /lib/
 /test/
 custom-elements.json
@@ -7,8 +7,5 @@ custom-elements.json
 /**/*.js.map
 /**/*.d.ts
 /**/*.d.ts.map
-# motion-carousel.js.map
-# motion-carousel.d.ts
-# motion-carousel.d.ts.map
 # only generated for size check
 motion-carousel.bundled.js
